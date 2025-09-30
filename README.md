@@ -4,6 +4,9 @@
 
 A simplified, console-based Java application for managing astronaut daily schedules. This version provides all the core functionality with a cleaner, more straightforward implementation while maintaining professional coding standards.
 
+## Class Diagram
+<img src="Class diagram.png">
+
 ## 🚀 Features
 
 ### Core Functionality
